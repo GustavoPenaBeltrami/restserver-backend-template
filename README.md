@@ -1,3 +1,3 @@
 # WebServer + RestServer
 
-Run: ```  npm install ``` to use this template
+Run: ```npm install``` to use this template
